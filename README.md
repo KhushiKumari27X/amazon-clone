@@ -6,6 +6,9 @@ A front-end clone of the Amazon homepage built using HTML and CSS. This project 
 
 The project includes key sections such as a navigation bar, search functionality layout, promotional banner, product categories, and footer — closely resembling the original Amazon interface. The goal was to practice layout design and UI structuring.
 
+##Demo
+https://khushikumari27x.github.io/amazon-clone/
+
 ## Features
 
 - Navigation bar with logo, location, search bar, and cart
